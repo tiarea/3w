@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.app-header{
+  max-height: 60px;
+  line-height: 60px;
+  overflow: hidden;
+  color: #fff;
+  background-color:#198021  ;
+  text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.app-content{
+  background-color: #fff;
+}
+
+.app-footer{
+  max-height: 40px;
+  padding: 10px;
+  overflow: hidden;
+  color: #999;
+  background-color: #fafafa;
+}
