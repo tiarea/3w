@@ -10,7 +10,7 @@ function App() {
         <Header className="app-header">
           tiarea
         </Header>
-        <Content className="app-content" style={{ height: window.innerHeight - 100 }}>
+        <Content className="app-content" style={{ minHeight: window.innerHeight - 100 }}>
           <Row>
             <Col span={24}>
             <Calendar />
